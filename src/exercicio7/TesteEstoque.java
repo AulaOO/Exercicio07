@@ -10,7 +10,7 @@ package exercicio7;
  * @author Luis Guilherme
  */
 public class TesteEstoque {
-
+ 
     /**
      * @param args the command line arguments
      */
